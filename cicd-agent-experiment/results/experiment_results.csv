@@ -1,0 +1,4 @@
+Configuration,Diagnostic Accuracy,Fix Correctness,Consistency,Reasoning Quality,Overall Reliability
+Single-Agent Baseline,0.9,1.0,0.5,0.5,0.725
+Multi-Agent Without Validation,1.0,1.0,0.75,1.0,0.938
+Multi-Agent With Validation,1.0,1.0,1.0,1.0,1.0
